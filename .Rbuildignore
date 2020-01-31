@@ -2,3 +2,6 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^README\.Rmd$
+^foofactors\.Rcheck$
+^foofactors.*\.tar\.gz$
+^foofactors.*\.tgz$

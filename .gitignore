@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+foofactors.Rcheck/
+foofactors*.tar.gz
+foofactors*.tgz
